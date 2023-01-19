@@ -1,4 +1,5 @@
-# The-Mole-Game             March - June 2018 <br/>
+# The-Mole-Game            
+## March - June 2018
 Developed at Processing IDE<br/>
 
 ## How to Play
